@@ -1,0 +1,6 @@
+# Windows:
+*.lnk
+Thumbs.db
+
+# Export
+*.pdf

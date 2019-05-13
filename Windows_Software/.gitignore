@@ -1,0 +1,20 @@
+# Python:
+.idea/
+__pycache__/
+*.pyc
+
+.vscode/
+venv/
+
+# Windows:
+*.lnk
+
+# Project:
+winsoft.yml
+winsoft_v2.yml
+head.md
+tail.md
+
+# Temp:
+winsoft.md
+winsoft_v2.md
